@@ -1,0 +1,35 @@
+[33mcommit 9efa1452300f71d4f8a85d3adaa300321a1f5c16[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Edenilson Mendonça <edenilsonjak@gmail.com>
+Date:   Sat Nov 18 12:01:45 2017 -0300
+
+    Alteracao TravisCI
+
+[33mcommit 41f01b32998f09e8230ab5bf0aee8015a4017e9a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Edenilson Mendonça <edenilsonjak@gmail.com>
+Date:   Sat Nov 18 11:49:49 2017 -0300
+
+    Alteracao TravisCI
+
+[33mcommit a8c2ab2ea97765ba3025818230532bee787f6d29[m
+Author: Edenilson Mendonça <edenilsonjak@gmail.com>
+Date:   Sat Nov 18 11:32:38 2017 -0300
+
+    Alteração do arquivo TravisCI.
+
+[33mcommit a0bf335a593608ce9cfcadef3c0a7dd5cd45e336[m
+Author: Edenilson Mendonça <edenilsonjak@gmail.com>
+Date:   Sat Nov 18 10:54:00 2017 -0300
+
+    Adicionado suporte a CI com TravisCI.
+
+[33mcommit ee1151fbd811d2b65ada07fa1fa389eedfc6c1f2[m
+Author: Edenilson Mendonça <edenilsonjak@gmail.com>
+Date:   Sat Nov 18 10:29:26 2017 -0300
+
+    Commit inicial dos arquivos do projeto.
+
+[33mcommit 214ad22d3b8c92f47586c422e5637adb50fa0425[m
+Author: EdenilsonJak <edenilsonjak@gmail.com>
+Date:   Sat Nov 18 11:14:31 2017 -0200
+
+    Initial commit
